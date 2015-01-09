@@ -8,7 +8,7 @@ import (
 func main() {
 	_, b, sum := test1(1, 2)
 	fmt.Println(b, sum)
-	fmt.Println(otherPackage.fact(4))
+	fmt.Println(otherPackage.Fact(4))
 	myfunc()
 }
 
