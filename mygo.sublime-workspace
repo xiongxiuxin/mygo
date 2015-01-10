@@ -1,0 +1,238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"s",
+				"slice1	[]byte ν"
+			],
+			[
+				"sl",
+				"slice2	[]byte ν"
+			],
+			[
+				"v",
+				"vname3	string ν"
+			],
+			[
+				"ip",
+				"import	import (...) ʂ"
+			],
+			[
+				"fun",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"imp",
+				"import	import (...) ʂ"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())  "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/mygo/helloword.go",
+		"/D/mygo/src/slice1/main.go",
+		"/D/mygo/src/helloworld/constTest.go",
+		"/D/mygo/src/helloworld/main.go",
+		"/D/Go/src/pkg/builtin/builtin.go",
+		"/D/mygo/src/second/second.go",
+		"/D/mygo/src/mymath/mymath.go",
+		"/D/mygo/src/first/main.go",
+		"/D/mygo/mygo.sublime-project",
+		"/C/Users/xxx/AppData/Roaming/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/C/Users/xxx/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/xxx/AppData/Roaming/Sublime Text 2/Packages/GoSublime/CHANGELOG.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://D:\\mygo":
+	{
+		"height": 100.0
+	},
+	"output.9o://D:\\mygo\\src":
+	{
+		"height": 100.0
+	},
+	"output.9o://D:\\mygo\\src\\first":
+	{
+		"height": 100.0
+	},
+	"output.9o://D:\\mygo\\src\\hello":
+	{
+		"height": 100.0
+	},
+	"output.9o://D:\\mygo\\src\\helloworld":
+	{
+		"height": 100.0
+	},
+	"output.9o://D:\\mygo\\src\\mymath":
+	{
+		"height": 100.0
+	},
+	"output.9o://D:\\mygo\\src\\second":
+	{
+		"height": 100.0
+	},
+	"output.9o://D:\\mygo\\src\\slice1":
+	{
+		"height": 252.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mygo.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
